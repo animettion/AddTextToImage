@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fdB1eP98zHqYRW8GUFmryzqovxt/5tlZeSjhk+YdH1vDT5j8kn56TNG+GjcbZ6xVBkXdM2Gun+3RVS/j2LtGLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lgfreitas\\Downloads\\backup\\projetinhos\\AddStringInImage\\AddStringInImage\\AddStringInImage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lgfreitas\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\lgfreitas\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
